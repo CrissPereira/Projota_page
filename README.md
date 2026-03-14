@@ -1,2 +1,2 @@
 Biografia do cantor, compositor, rapper e ator (Projota). 
-Site criado para consolidação de semântica do html 5 e do CSS 3.
+Site criado com foco total na consolidação da semântica do html 5 e de boas práticas do CSS 3.
